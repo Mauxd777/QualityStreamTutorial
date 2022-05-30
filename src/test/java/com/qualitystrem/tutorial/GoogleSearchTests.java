@@ -22,6 +22,7 @@ public class GoogleSearchTests {
 		driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		driver.get("https://www.google.com/");
+		//esto solo es para que no se cierre el navegador
 	}
 	
 	@Test
