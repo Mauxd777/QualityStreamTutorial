@@ -32,7 +32,7 @@ En este apartado justo debajo de donde dice
 <version>0.0.1-SNAPSHOT</version>
 Como se muestra en la imagen, ingresamos el siguiente código, esto 
 instalara las librerías necesarias para Selenium y Junit,
-de manera que todo corra de manera correcta a la hora de hacer
+de manera que todo corra correctamente a la hora de hacer
 procesos de automatización.
 ```
 
