@@ -121,6 +121,4 @@ public class GoogleSearchTests {
 
 >*Evidencia de que el proyecto se ejecuta de manera correcta en el ambiente de pruebas.*
 
-```text
-La pagina se cayó.
-```
+![Image text](https://github.com/Mauxd777/QualityStreamTutorial/blob/main/src/test/java/Imagenes/Prueba.png)
