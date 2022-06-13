@@ -15,9 +15,22 @@ Más información sobre [Selenium](https://inmediatum.com/blog/piensa-digital/qu
 >*¿Como descargar Selenium web driver?*
 
 ```text
-En este caso vamos a instalar Selenium web driver con el lenguaje de programación de Java utilizando Visual Studio Code.
+En este caso vamos a instalar Selenium web driver con 
+el lenguaje de programación de Java utilizando Visual Studio Code.
 
-Para esto necesitamos crear un java proyect tipo maven y dirigirnos a la siguiente carpeta.
+Para esto necesitamos crear un java proyect tipo maven 
+y dirigirnos a la siguiente carpeta.
 ```
 
 ![Image text](https://github.com/Mauxd777/QualityStreamTutorial/blob/main/src/test/java/Imagenes/Carpeta.PNG)
+
+```text
+En este apartado justo debajo de donde dice 
+<version>0.0.1-SNAPSHOT</version>
+Como se muestra en la imagen, ingresamos el siguiente código, esto 
+instalara las librerías necesarias para Selenium y Junit,
+de manera que todo corra de manera correcta a la hora de hacer
+procesos de automatización.
+```
+![Image text](https://github.com/Mauxd777/QualityStreamTutorial/blob/main/src/test/java/Imagenes/Donde.png)
+
