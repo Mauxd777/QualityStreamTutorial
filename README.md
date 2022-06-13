@@ -1,4 +1,3 @@
 # ProyectoDeCalidad
  Trabajo de Calidad de software
-![Image text](src/ test/ java/ Imagenes/ Selenium.png)
-Hola esto es olo una prueba
+![Image text](https://github.com/Mauxd777/QualityStreamTutorial/blob/main/src/test/java/Imagenes/Selenium.png)
