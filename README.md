@@ -4,9 +4,9 @@
 >*Selenium*
 
 ```text
-Es una hermanieta de codigo abierto para la automatizacion de pruebas de 
-aplicaiones web, nos proporciona una herrmaienta con la cual podremos 
-grabar o reproducir, editar y depurar casos de prueba la cual no permitira
-ejecutar algunas prebas repetidamente las veces que sea necesrio.
+Es una herramienta de código abierto para la automatización de pruebas de 
+aplicaciones web, nos proporciona una herramienta con la cual podremos 
+grabar o reproducir, editar y depurar casos de prueba, la cual no permitirá
+ejecutar algunas pruebas repetidamente las veces que sea necesario.
+Más información sobre [Selenium](https://inmediatum.com/blog/piensa-digital/que-es-selenium-y-para-que-sirve/).
 ```
-
