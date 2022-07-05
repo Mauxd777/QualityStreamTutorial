@@ -9,7 +9,7 @@
 ```text
 Es una herramienta de código abierto para la automatización de pruebas de 
 aplicaciones web, nos proporciona una herramienta con la cual podremos 
-grabar o reproducir, editar y depurar casos de prueba, la cual no permitirá
+grabar o reproducir, editar y depurar casos de prueba, nos permitirá
 ejecutar algunas pruebas repetidamente las veces que sea necesario.
 ```
 
