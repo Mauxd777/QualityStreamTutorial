@@ -7,7 +7,7 @@
 >*Selenium*
 
 ```text
-Es una herramienta de código abierto para la automatización de pruebas para 
+Es una herramienta de código abierto para la automatización de pruebas en 
 aplicaciones web. Nos proporciona una funciones con la cual podremos 
 grabar o reproducir, editar y depurar casos de prueba, y nos permitirá
 ejecutar algunas pruebas repetidamente las veces que sea necesario.
